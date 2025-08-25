@@ -48,7 +48,7 @@
 ‎
 ‎# Initial setup and promotion
 ‎os.system('clear')
-‎print(' \x1b[38;5;46mAHB SERVER LOADING....')
+‎print(' \x1b[38;5;46mWWK SERVER LOADING....')
 ‎
 ‎
 ‎os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
@@ -57,9 +57,7 @@
 ‎os.system('clear')
 ‎os.system('xdg-open https://www.youtube.com/@AliRafique2962-B')
 ‎os.system('xdg-open https://www.facebook.com/BaLoch0654')
-‎
-‎
-‎# --- Anti-tampering and Security Checks ---
+‎‎# --- Anti-tampering and Security Checks ---
 ‎# The script checks if the source code of the 'requests' library has been modified
 ‎# or if packet sniffing tools are being used.
 ‎try:
